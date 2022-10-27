@@ -9,7 +9,9 @@ Data scientist with competence in machine learning, statistics, and economics. I
 *   🌍  I'm based in Nigeria
 *   ✉️  You can contact me at [davidotheanalyst@gmail.com](mailto:davidotheanalyst@gmail.com)
 *   🧠  I'm learning Python and SQL
-<a href="https://www.twitter.com/davotheanalyst" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/davotheanalyst?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
+<a href="https://www.twitter.com/davotheanalyst" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/twitter/follow/davotheanalyst?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/>
+</a>
 ### Skills 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
